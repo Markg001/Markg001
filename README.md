@@ -1,14 +1,12 @@
-👋 Hi, I’m @Markg001
+I am a System Administrator with over 3 years of hands-on experience managing and maintaining IT infrastructure, including servers, networks, cloud environments, and automation processes. My work focuses on ensuring system reliability, security, and operational efficiency across production environments.
 
-👀 I’m interested in cybersecurity, DevSecOps, ethical hacking, cloud networking, and using tech to solve real-world problems
+I am currently strengthening my expertise in advanced system administration, automation using Bash and Python, cloud technologies, and monitoring solutions. I am actively transitioning into a Cloud Administrator role, where I can apply and expand my skills in scalable, cloud-based environments.
 
-🌱 I’m currently learning advanced Python, ethical hacking tools, and responsive web development with HTML/CSS
+I am open to collaborating on infrastructure projects, automation initiatives, system monitoring solutions, and technical content that reflects practical, real-world system administration practices.
 
-💞️ I’m looking to collaborate on open-source cybersecurity tools, network security projects, and beginner-friendly tech blogs
+You can reach me through my portfolio: markg001.github.io/My_Free_Space/
 
-📫 How to reach me through my portfolio: markg001.github.io/My_Free_Space/
-
-⚡ Fun fact: Life is a thrilling puzzle — sometimes complex, sometimes unpredictable, but always worth solving one challenge at a time!
+Fun fact: I approach challenges with a problem-solving mindset, viewing complex systems as opportunities to design efficient and reliable solutions.
 
 <!---
 Markg001/Markg001 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
