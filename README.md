@@ -4,7 +4,7 @@ I am currently strengthening my expertise in advanced system administration, aut
 
 I am open to collaborating on infrastructure projects, automation initiatives, system monitoring solutions, and technical content that reflects practical, real-world system administration practices.
 
-You can reach me through my portfolio: markg001.github.io/My_Free_Space/
+You can reach me through my portfolio: https://markg001.github.io/SysOps-Ledger/
 
 Fun fact: I approach challenges with a problem-solving mindset, viewing complex systems as opportunities to design efficient and reliable solutions.
 
